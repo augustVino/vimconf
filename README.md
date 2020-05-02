@@ -1,3 +1,4 @@
+安装MacVim： https://github.com/macvim-dev/macvim
 
 ```
        _           _
